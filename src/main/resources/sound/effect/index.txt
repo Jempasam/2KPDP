@@ -1,0 +1,7 @@
+card.wav
+cleanTerrain.wav
+click.wav
+debutPartie.wav
+declick.wav
+finPartie.wav
+slider.wav

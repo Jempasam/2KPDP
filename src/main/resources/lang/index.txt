@@ -1,0 +1,3 @@
+afr.properties
+en.properties
+fr.properties

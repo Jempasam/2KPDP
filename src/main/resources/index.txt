@@ -1,0 +1,4 @@
+bots
+imagemanager
+lang
+sound
